@@ -5,6 +5,7 @@
 .env
 .angelusvigil/
 .worktrees/
+.obsidian/
 .claude/
 DEMO-TRACKER.md
 
